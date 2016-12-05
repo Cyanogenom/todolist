@@ -1,0 +1,72 @@
+body {
+  margin: 0; }
+
+.l0 {
+  background-color: #ff8e8e; }
+
+.l1 {
+  background-color: #ffffa8; }
+
+.l2 {
+  background-color: lightgray; }
+
+.l4 {
+  background-color: #9bff9b; }
+
+.event_class {
+  position: relative;
+  overflow: hidden;
+  width: 80%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 10%;
+  margin-right: 10%;
+  border-radius: 20px; }
+  .event_class h4 {
+    float: right;
+    margin-right: 15px;
+    margin-top: 15px; }
+  .event_class a {
+    float: left;
+    margin: 10px 10px 10px 10px; }
+    .event_class a img {
+      height: 40px;
+      width: 40px; }
+  .event_class p {
+    float: left;
+    font-size: 15px;
+    text-align: justify;
+    margin-right: 15px;
+    margin-top: 22px; }
+
+.add_event {
+  width: 80%;
+  overflow: hidden;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  border-radius: 20px;
+  background-color: #d1e8ff; }
+
+.add_field {
+  margin-left: 10%;
+  margin-right: 10%; }
+  .add_field label {
+    font-size: 20px; }
+  .add_field input {
+    height: 30px;
+    width: 100%; }
+
+.submit_button {
+  float: right;
+  margin-right: 10%;
+  margin-top: 15px;
+  width: 100px;
+  height: 40px;
+  border-radius: 8px;
+  background-color: #60f467;
+  outline: none;
+  color: white; }
+
+/*# sourceMappingURL=style.css.map */
